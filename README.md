@@ -3,7 +3,7 @@
 Este projeto é um **currículo online desenvolvido para a web**, criado com o objetivo de apresentar minhas informações, habilidades e alguns projetos de forma moderna e acessível.
 
 🔗 **Acesse o site:**  
-https://piettra44.github.io/pietra-dev-js-/
+https://piettra44.github.io/CV-pietra/
 
 ---
 
